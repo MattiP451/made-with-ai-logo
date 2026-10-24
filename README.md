@@ -1,6 +1,4 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="made-with-ai-svg-white.svg">
-  <source media="(prefers-color-scheme: light)" srcset="made-with-ai-svg-black.svg">
   <img src="made-with-ai-svg-black.svg" width="100" align="left" alt="Made with AI">
 </picture>
 
