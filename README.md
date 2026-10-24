@@ -1,5 +1,5 @@
 <h3>
-  <img src="path/to/image.png" alt="Logo" width="40" height="40" align="center" style="vertical-align:middle; margin-right:10px;">
+  <img src="made-with-ai-128-black.png" alt="Logo" width="40" height="40" align="center" style="vertical-align:middle; margin-right:10px;">
   Made with AI Logo
 </h3>
 
