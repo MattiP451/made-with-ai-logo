@@ -1,8 +1,7 @@
-<h3>
+<h2>
   <img src="made-with-ai-128-black.png" alt="Logo" width="100" height="100" align="center" style="vertical-align:middle; margin-right:10px;">
   Made with AI Logo
-</h3>
-
+</h2>
 An open logo for things made with, or with the help of, AI.
 
 ### Design philosophy
