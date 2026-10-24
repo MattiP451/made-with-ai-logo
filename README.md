@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="made-with-ai-svg-white.svg">
-  <source media="(prefers-color-scheme: light)" srcset="made-with-ai-svg-black.svg">
+  <source media="(prefers-color-scheme: light)" srcset="made-with-ai-svg-black.svg" withd="100">
   <img alt="Fallback image description" src="made-with-ai-svg-black.svg">
 </picture>
 
