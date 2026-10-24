@@ -2,7 +2,7 @@
   <img src="made-with-ai-128-black.png" alt="Made with AI logo: a retro robot head with one smaller eye" width="100" align="left">
 </picture>
 
-# Made with AI Logo
+## Made with AI Logo
 
 An open logo for things made with, or with the help of, AI.
 
