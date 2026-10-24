@@ -1,5 +1,5 @@
 <picture>
-  <img src="made-with-ai-svg-black.svg" width="100" align="left" alt="Made with AI">
+  <img src="made-with-ai-128-black.png" width="100" align="left" alt="Made with AI">
 </picture>
 
 # Made with AI Logo
