@@ -1,7 +1,5 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="made-with-ai-svg-white.svg">
-  <img src="made-with-ai-svg-black.svg" alt="Made with AI logo: a retro robot head with one smaller eye" width="100" align="left">
-</picture>
+<img src="made-with-ai-svg-black.svg#gh-light-mode-only" alt="Made with AI logo: a retro robot head with one smaller eye" width="100" align="left">
+<img src="made-with-ai-svg-white.svg#gh-dark-mode-only" alt="" width="100" align="left">
 
 # Made with AI Logo
 
