@@ -1,3 +1,5 @@
+
+<img src="Made%20with%20AI%20128%20black.png" width="100" align="left">
 # AI-Generated Content Logo
 
 This repository contains an open logo designed for things made with or with the help of AI.
