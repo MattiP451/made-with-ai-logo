@@ -1,5 +1,5 @@
 <picture>
-  <img src="made-with-ai-128-black.png" alt="Made with AI logo: a retro robot head with one smaller eye" width="100" align="left">
+  <img src="made-with-ai-128-black.png" alt="Made with AI logo: a retro robot head with one smaller eye" alignt="center">
 </picture>
 
 ## Made with AI Logo
