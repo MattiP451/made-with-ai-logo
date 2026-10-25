@@ -1,5 +1,6 @@
 <picture>
-  <img src="made-with-ai-128-black.png" alt="Made with AI logo: a retro robot head with one smaller eye">
+  <source media="(prefers-color-scheme: dark)" srcset="images/made-with-ai-transparent-white.png">
+  <img align="left" width="108" src="made-with-ai-transparent-black.png" alt="Made with AI" align="left">
 </picture>
 
 ## Made with AI Logo
