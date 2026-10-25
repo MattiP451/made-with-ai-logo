@@ -6,7 +6,7 @@
 ## Made with AI Logo
 
 An open logo for things made with, or with the help of, AI.  
-
+<br /> 
 
 ### Design philosophy
 
