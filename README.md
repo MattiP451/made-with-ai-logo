@@ -3,8 +3,8 @@
 An open logo for things made with, or with the help of, AI. 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="made-with-ai-transparent-white.png">
-  <source media="(prefers-color-scheme: light)" srcset="made-with-ai-transparent-black.png">
+  <source media="(prefers-color-scheme: dark)" srcset="made-with-ai-transparent-white.png" width="150">
+  <source media="(prefers-color-scheme: light)" srcset="made-with-ai-transparent-black.png" width="150">
   <img alt="Fallback image description" src="default-image.png">
 </picture>
 
