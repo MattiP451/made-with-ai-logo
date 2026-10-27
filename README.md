@@ -4,7 +4,7 @@ An open logo for things made with, or with the help of, AI.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="images/made-with-ai-transparent-white.png">
-  <img align="left" width="100" src="made-with-ai-transparent-black.png" alt="Made with AI" align="left">
+  <img align="left" width="100" src="made-with-ai-transparent-black.png" alt="Made with AI">
 </picture>
 
 ### Design philosophy
